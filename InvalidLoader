@@ -1,0 +1,8 @@
+-- Nicos Nextbots
+if game.PlaceId == 10118559731 then
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/SecondaryGames/Loader/main/Nicos%20Nextbots'))()
+end
+-- SCP 3008
+if game.PlaceId == 2768379856 then
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/SecondaryGames/Loader/main/3008'))() 
+end
